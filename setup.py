@@ -22,5 +22,5 @@ setup(
     url=URL,
     packages=find_packages(),
     zip_safe=False,
-    long_description=read('README.md'),
+    long_description="",
 )
